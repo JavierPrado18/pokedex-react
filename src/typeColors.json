@@ -1,0 +1,20 @@
+{
+    "grass": "linear-gradient(rgba(59, 176, 57, 1),rgba(98, 219, 96, 1),rgba(176, 300, 168, 1))",
+    "normal": "linear-gradient(35deg, #ffffe5 0, #f5e3a4 50%, #d6bb65 100%)",
+    "fighting": "linear-gradient(rgba(150, 64, 42, 1),rgba(241, 97, 60, 1),rgba(203, 115, 93, 1))",
+    "flying": "linear-gradient(rgba(115, 82, 89, 1),rgba(188, 107, 124, 1),rgba(124, 63, 76, 1))",
+    "poison": "linear-gradient(rgba(91, 49, 132, 1),rgba(165, 100, 227, 1),rgba(206, 155, 255, 1))",
+    "ground": "linear-gradient(rgba(101, 64, 8, 1),rgba(137, 92, 26, 1),rgba(214, 150, 56, 1))",
+    "rock": "linear-gradient(rgba(126, 126, 126, 1),rgba(141, 141, 148, 1),rgba(211, 211, 211, 1))",
+    "bug": "linear-gradient(rgba(126, 198, 197, 1),rgba(171, 218, 198, 1),rgba(202, 224, 153, 1))",
+    "ghost": "linear-gradient(rgba(50, 53, 105, 1),rgba(69, 74, 168, 1),rgba(120, 125, 218, 1))",
+    "steel": "linear-gradient(rgba(94, 115, 108, 1),rgba(114, 136, 129, 1),rgba(168, 168, 168, 1))",
+    "fire": "linear-gradient(rgba(249, 109, 111, 1),rgba(227, 88, 37, 1),rgba(232, 174, 27, 1))",
+    "water": "linear-gradient(315deg, #4d5dfb 0%, #08c8f6 74%)",
+    "electric": "linear-gradient(315deg, #fbb034 0%, #ffdd00 74%)",
+    "psychic": "linear-gradient(315deg, #eec0c6 0%, #e58c8a 74%)",
+    "ice": "linear-gradient(rgba(111, 190, 223, 1),rgba(100, 203, 245, 1),rgba(189, 235, 254, 1))",
+    "dragon": "linear-gradient(rgba(71, 138, 147, 1),rgba(86, 164, 174, 1),rgba(162, 190, 193, 1))",
+    "dark": "linear-gradient(rgba(3, 7, 6, 1),rgba(13, 18, 17, 1),rgba(90, 94, 93, 1))",
+    "fairy": "linear-gradient(rgba(151, 27, 69, 1),rgba(194, 56, 103, 1),rgba(205, 125, 152, 1))"
+}

@@ -1,0 +1,21 @@
+{
+    "grass":"rgba(59, 176, 57, 1)",
+    "normal":"#d6bb65",
+    "fighting":"rgba(150, 64, 42, 1)",
+    "flying":"rgba(124, 63, 76, 1)",
+    "poison":"rgba(91, 49, 132, 1)",
+    "ground":"rgba(137, 92, 26, 1)",
+    "rock":"rgba(141, 141, 148, 1)",
+    "bug":"rgba(126, 198, 197, 1)",
+    "ghost":"rgba(50, 53, 105, 1)",
+    "steel":"rgba(114, 136, 129, 1)",
+    "fire":"rgba(227, 88, 37, 1)",
+    "water":"rgba(20, 121, 251, 1)",
+    "electric":"#fbb034",
+    "psychic":"#e58c8a",
+    "ice":"rgba(100, 203, 245, 1)",
+    "dragon":"rgba(86, 164, 174, 1)",
+    "dark":"rgba(13, 18, 17, 1)",
+    "fairy":"rgba(194, 56, 103, 1)"
+
+}
